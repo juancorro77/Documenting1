@@ -9,4 +9,4 @@ The of open projects are the following
 I would change this, and delete the list
 
 
-Let's see if I can link to something [There are further ideas out there](Ideas.nd)
+Let's see if I can link to something [There are further ideas out there](./Ideas.nd)
