@@ -7,3 +7,6 @@ The of open projects are the following
 
 
 I would change this, and delete the list
+
+
+Let's see if I can link to something [There are further ideas out there](Documenting1/Ideas,nd)
