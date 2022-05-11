@@ -7,3 +7,7 @@ The of open projects are the following
 
 
 I would change this, and delete the list
+
+![Imagen1](./pexels-miguel-á-padriñán-1061137.jpg)
+
+Sigo 
