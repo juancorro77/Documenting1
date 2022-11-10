@@ -1,6 +1,6 @@
 # Documenting1
 
-## Documeting 1 is a trial method to create technical documents within the UITP in a linked way
+## Documeting 1 is a trial method to create technical documents within the Org in a linked way
 
 The of open projects are the following
 
