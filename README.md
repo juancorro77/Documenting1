@@ -5,6 +5,11 @@
 The of open projects are the following
 
 
+### WGs
+
+[Documentación del WG2](docs/WG2.md)
+
+
 
 I would change this, and delete the list
 
