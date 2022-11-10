@@ -9,7 +9,7 @@ The of open projects are the following
 
 [Documentación del WG2](docs/WG2.md#summary)
 
-
+[prueba](https://github.com/juancorro77/desktop-tutorial/blob/main/WG1.md#executive-summary)
 
 I would change this, and delete the list
 
